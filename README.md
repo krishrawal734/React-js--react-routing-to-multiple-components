@@ -7,20 +7,31 @@ https://project-1211.vercel.app/
 <img width="1920" height="2970" alt="screencapture-localhost-5173-travelguides-2025-11-21-00_39_39" src="https://github.com/user-attachments/assets/57cbd5f3-9ec8-43f6-9cc2-3ee504b5bd6c" />
 <img width="1920" height="3474" alt="screencapture-localhost-5173-contact-2025-11-21-00_39_59" src="https://github.com/user-attachments/assets/02ae8e09-2b60-47ed-b4e1-26d231e43e3b" />
 
+# Project-1211
 
-# React + Vite
+Welcome to **Project-1211**, a frontend web application built for speed and simplicity.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🔧 Features  
+- Built with Vite for lightning-fast development and hot module replacement (HMR)  
+- Optimised production build with minimal bundle size  
+- Deployed seamlessly on Vercel for instant global delivery  
+- Clean folder structure and modular component design (ideal for scaling)  
+- Easy to extend: simply add your own pages, components, styles, and data  
 
-Currently, two official plugins are available:
+## 🚀 Getting Started  
+These instructions will get you a copy of the project up and running on your local machine for development and testing.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites  
+- Node.js (v16 or higher recommended)  
+- npm or yarn  
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+git clone https://github.com/your-username/project-1211.git
 
-## Expanding the ESLint configuration
+# Enter the project directory
+cd project-1211
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Install dependencies
+npm install
+# or
+yarn install
